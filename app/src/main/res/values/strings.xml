@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VaraSoft Weather App</string>
+    <string name="city_name">Moscow</string>
+    <string name="temperature" translatable="false">-7°C </string>
 </resources>
